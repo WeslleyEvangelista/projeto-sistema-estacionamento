@@ -1,0 +1,14 @@
+C:\Courses\C# Com CRM - DIO\parking-system-project\bin\Debug\net6.0\DesafioFundamentos.exe
+C:\Courses\C# Com CRM - DIO\parking-system-project\bin\Debug\net6.0\DesafioFundamentos.deps.json
+C:\Courses\C# Com CRM - DIO\parking-system-project\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+C:\Courses\C# Com CRM - DIO\parking-system-project\bin\Debug\net6.0\DesafioFundamentos.dll
+C:\Courses\C# Com CRM - DIO\parking-system-project\bin\Debug\net6.0\DesafioFundamentos.pdb
+C:\Courses\C# Com CRM - DIO\parking-system-project\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\C# Com CRM - DIO\parking-system-project\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\Courses\C# Com CRM - DIO\parking-system-project\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+C:\Courses\C# Com CRM - DIO\parking-system-project\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\Courses\C# Com CRM - DIO\parking-system-project\obj\Debug\net6.0\DesafioFundamentos.dll
+C:\Courses\C# Com CRM - DIO\parking-system-project\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+C:\Courses\C# Com CRM - DIO\parking-system-project\obj\Debug\net6.0\DesafioFundamentos.pdb
+C:\Courses\C# Com CRM - DIO\parking-system-project\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+C:\Courses\C# Com CRM - DIO\parking-system-project\obj\Debug\net6.0\ref\DesafioFundamentos.dll
